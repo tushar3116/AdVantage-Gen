@@ -1,0 +1,22 @@
+.prompt-input {
+  padding: 20px;
+  background: #f8f9fa;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.prompt-input textarea,
+.prompt-input select,
+.prompt-input input {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.prompt-input button {
+  padding: 10px;
+  background: #667eea;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
