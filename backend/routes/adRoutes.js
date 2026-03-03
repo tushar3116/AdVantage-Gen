@@ -1,4 +1,4 @@
-const express = require("express");
+cont express = require("express");
 const router = express.Router();
 const { generateAd, getAdById } = require("../controllers/adController");
 
